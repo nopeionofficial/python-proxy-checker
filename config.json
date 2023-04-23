@@ -1,0 +1,8 @@
+{
+    "timeout": 15,
+    "thread": 50,
+    "max_ms": 4000,
+    "import": ["proxies.txt"],
+    "export": "working.txt",
+    "host": "https://open.spotify.com/"
+}
